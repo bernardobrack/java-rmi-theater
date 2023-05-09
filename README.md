@@ -12,5 +12,3 @@ Para compilar e executar, seguir os seguinte passos
   1. javac *.java 
   2. Abrir um terminal e digitar: rmiregistry & java TheaterServerMain
   3. Em outro(s) terminal(is), executar cliente(s) com: java TheaterClient ou java TheaterClient2
-
-
